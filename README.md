@@ -18,7 +18,7 @@ It will be seen from the output in the results folder, that the proxy with 1000 
 Call service directly|call service via proxy with default max sockets|call service via proxy with 1000 max sockets
 ---------------------| ---------------------| ---------------------
 Server Port:            1337|Server Port:            1338|Server Port:            1339
-Time per request:       1018.460 [ms] (mean)|Time per request:       8045.401 [ms] (mean)|Time per request:       1045.163 [ms] (mean)
+Time per request:       1018.460 ms - mean|Time per request:       8045.401 ms - mean|Time per request:       1045.163 ms - mean
 Percentage of the requests served within a certain time (ms)|Percentage of the requests served within a certain time (ms)|Percentage of the requests served within a certain time (ms)
   50%   1017|  50%   8040|  50%   1043
   66%   1019|  66%   8042|  66%   1049
