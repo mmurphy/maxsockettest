@@ -1,0 +1,12 @@
+{
+  "name": "maxsockettest",
+  "version": "0.0.0",
+  "description": "",
+  "main": "serviceapp.js",
+  "author": "",
+  "dependencies": {
+    "minimist": "^1.1.1",
+    "request": "^2.58.0",
+    "winston": "^1.0.1"
+  }
+}
